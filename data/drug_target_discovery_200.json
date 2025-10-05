@@ -1,0 +1,800 @@
+  {
+    "prompt": "Describe how HER2 contributes to cellular signaling in disease.",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+{
+    "prompt": "What drugs target BRAF and what are their mechanisms?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+{
+    "prompt": "What is the role of TP53 in drug discovery?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "Why is TP53 an important therapeutic target?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "What is the role of KRAS in drug discovery?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Why is TP53 an important therapeutic target?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "Describe how KRAS contributes to cellular signaling in disease.",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Why is BRAF an important therapeutic target?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "How does modulation of VEGF affect disease progression?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "Why is BRAF an important therapeutic target?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "How does modulation of VEGF affect disease progression?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "What drugs target HER2 and what are their mechanisms?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "What is the role of EGFR in drug discovery?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Why is HER2 an important therapeutic target?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "How does modulation of EGFR affect disease progression?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "What drugs target TP53 and what are their mechanisms?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "What is the role of EGFR in drug discovery?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Describe how CTLA-4 contributes to cellular signaling in disease.",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "Why is PI3K an important therapeutic target?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "What is the role of AKT in drug discovery?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What is the role of CTLA-4 in drug discovery?",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "What drugs target PD-1 and what are their mechanisms?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "Describe how VEGF contributes to cellular signaling in disease.",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "Describe how VEGF contributes to cellular signaling in disease.",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "How does modulation of KRAS affect disease progression?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Describe how PD-1 contributes to cellular signaling in disease.",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "What is the role of PD-1 in drug discovery?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "How does modulation of VEGF affect disease progression?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "How does modulation of AKT affect disease progression?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What drugs target VEGF and what are their mechanisms?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "Why is BRAF an important therapeutic target?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "What drugs target HER2 and what are their mechanisms?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "What drugs target BRAF and what are their mechanisms?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "Describe how CTLA-4 contributes to cellular signaling in disease.",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "How does modulation of AKT affect disease progression?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "How does modulation of KRAS affect disease progression?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "What drugs target HER2 and what are their mechanisms?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "How does modulation of VEGF affect disease progression?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "Why is PI3K an important therapeutic target?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "Describe how CTLA-4 contributes to cellular signaling in disease.",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "Describe how PD-1 contributes to cellular signaling in disease.",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "Why is TP53 an important therapeutic target?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "Describe how BRAF contributes to cellular signaling in disease.",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "Describe how CTLA-4 contributes to cellular signaling in disease.",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "Why is EGFR an important therapeutic target?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "What drugs target TP53 and what are their mechanisms?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "What is the role of PI3K in drug discovery?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "Describe how KRAS contributes to cellular signaling in disease.",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "How does modulation of PD-1 affect disease progression?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "What drugs target BRAF and what are their mechanisms?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "Why is HER2 an important therapeutic target?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "Describe how BRAF contributes to cellular signaling in disease.",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "What is the role of PD-1 in drug discovery?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "How does modulation of HER2 affect disease progression?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "What drugs target KRAS and what are their mechanisms?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "What is the role of EGFR in drug discovery?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Why is AKT an important therapeutic target?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What is the role of KRAS in drug discovery?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Why is PI3K an important therapeutic target?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "What is the role of TP53 in drug discovery?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "Why is EGFR an important therapeutic target?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Why is TP53 an important therapeutic target?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "How does modulation of KRAS affect disease progression?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Why is EGFR an important therapeutic target?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Why is KRAS an important therapeutic target?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Describe how TP53 contributes to cellular signaling in disease.",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "What drugs target AKT and what are their mechanisms?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "How does modulation of HER2 affect disease progression?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "What drugs target PI3K and what are their mechanisms?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "How does modulation of TP53 affect disease progression?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "What drugs target TP53 and what are their mechanisms?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "Describe how EGFR contributes to cellular signaling in disease.",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Describe how KRAS contributes to cellular signaling in disease.",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "How does modulation of KRAS affect disease progression?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "What is the role of PI3K in drug discovery?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "Describe how KRAS contributes to cellular signaling in disease.",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "What drugs target KRAS and what are their mechanisms?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "What is the role of PI3K in drug discovery?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "What is the role of BRAF in drug discovery?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "What is the role of HER2 in drug discovery?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "Why is HER2 an important therapeutic target?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "Why is HER2 an important therapeutic target?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "What drugs target EGFR and what are their mechanisms?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Why is EGFR an important therapeutic target?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "How does modulation of KRAS affect disease progression?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "What drugs target TP53 and what are their mechanisms?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "Why is AKT an important therapeutic target?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What is the role of PD-1 in drug discovery?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "How does modulation of CTLA-4 affect disease progression?",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "Why is PI3K an important therapeutic target?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "How does modulation of HER2 affect disease progression?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "Why is PD-1 an important therapeutic target?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "Why is VEGF an important therapeutic target?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "What drugs target PI3K and what are their mechanisms?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "What drugs target BRAF and what are their mechanisms?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "Why is AKT an important therapeutic target?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "How does modulation of AKT affect disease progression?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "Why is PI3K an important therapeutic target?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "How does modulation of PD-1 affect disease progression?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "Why is EGFR an important therapeutic target?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Why is BRAF an important therapeutic target?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "How does modulation of TP53 affect disease progression?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "Why is VEGF an important therapeutic target?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "What is the role of AKT in drug discovery?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "Describe how PD-1 contributes to cellular signaling in disease.",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "Why is KRAS an important therapeutic target?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "How does modulation of PI3K affect disease progression?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "How does modulation of KRAS affect disease progression?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "How does modulation of CTLA-4 affect disease progression?",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "Why is HER2 an important therapeutic target?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "How does modulation of KRAS affect disease progression?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "What drugs target BRAF and what are their mechanisms?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "How does modulation of EGFR affect disease progression?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "What drugs target CTLA-4 and what are their mechanisms?",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "Why is VEGF an important therapeutic target?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "How does modulation of EGFR affect disease progression?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "What drugs target PD-1 and what are their mechanisms?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "What drugs target PD-1 and what are their mechanisms?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "What is the role of AKT in drug discovery?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What is the role of VEGF in drug discovery?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "What is the role of VEGF in drug discovery?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "Describe how KRAS contributes to cellular signaling in disease.",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Why is KRAS an important therapeutic target?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Why is PI3K an important therapeutic target?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "Why is AKT an important therapeutic target?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "Why is PI3K an important therapeutic target?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "How does modulation of AKT affect disease progression?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What drugs target AKT and what are their mechanisms?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What drugs target AKT and what are their mechanisms?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What drugs target VEGF and what are their mechanisms?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "Why is EGFR an important therapeutic target?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "How does modulation of HER2 affect disease progression?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "What is the role of PD-1 in drug discovery?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "What drugs target AKT and what are their mechanisms?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What drugs target KRAS and what are their mechanisms?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "What drugs target AKT and what are their mechanisms?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What drugs target VEGF and what are their mechanisms?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "What drugs target VEGF and what are their mechanisms?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "What is the role of PI3K in drug discovery?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "What is the role of PI3K in drug discovery?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "What drugs target TP53 and what are their mechanisms?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "What drugs target TP53 and what are their mechanisms?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "How does modulation of KRAS affect disease progression?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Describe how CTLA-4 contributes to cellular signaling in disease.",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "Describe how VEGF contributes to cellular signaling in disease.",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "What is the role of VEGF in drug discovery?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "Why is KRAS an important therapeutic target?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Why is CTLA-4 an important therapeutic target?",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "What is the role of EGFR in drug discovery?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "How does modulation of KRAS affect disease progression?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Describe how EGFR contributes to cellular signaling in disease.",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "How does modulation of EGFR affect disease progression?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Describe how BRAF contributes to cellular signaling in disease.",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "Describe how AKT contributes to cellular signaling in disease.",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "How does modulation of AKT affect disease progression?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What is the role of VEGF in drug discovery?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "What is the role of PD-1 in drug discovery?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "Why is KRAS an important therapeutic target?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "What drugs target KRAS and what are their mechanisms?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Describe how TP53 contributes to cellular signaling in disease.",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "How does modulation of VEGF affect disease progression?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "How does modulation of BRAF affect disease progression?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "How does modulation of CTLA-4 affect disease progression?",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "What drugs target EGFR and what are their mechanisms?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "What drugs target CTLA-4 and what are their mechanisms?",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "What drugs target AKT and what are their mechanisms?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What is the role of CTLA-4 in drug discovery?",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "How does modulation of KRAS affect disease progression?",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "Describe how PI3K contributes to cellular signaling in disease.",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "How does modulation of PI3K affect disease progression?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "Why is HER2 an important therapeutic target?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "What is the role of EGFR in drug discovery?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Describe how HER2 contributes to cellular signaling in disease.",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "What drugs target CTLA-4 and what are their mechanisms?",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "What is the role of PI3K in drug discovery?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "What drugs target PD-1 and what are their mechanisms?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "What is the role of VEGF in drug discovery?",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "What drugs target PI3K and what are their mechanisms?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "What drugs target HER2 and what are their mechanisms?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "Describe how CTLA-4 contributes to cellular signaling in disease.",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "What is the role of BRAF in drug discovery?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "What is the role of PI3K in drug discovery?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "How does modulation of EGFR affect disease progression?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Describe how PI3K contributes to cellular signaling in disease.",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "How does modulation of EGFR affect disease progression?",
+    "completion": "EGFR is a receptor tyrosine kinase involved in cell proliferation; its overactivation causes cancers like NSCLC."
+ }
+  {
+    "prompt": "Describe how AKT contributes to cellular signaling in disease.",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "How does modulation of TP53 affect disease progression?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "What drugs target AKT and what are their mechanisms?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "Describe how VEGF contributes to cellular signaling in disease.",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "What drugs target AKT and what are their mechanisms?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "Describe how VEGF contributes to cellular signaling in disease.",
+    "completion": "VEGF is a signal protein that stimulates angiogenesis; inhibited to block tumor blood supply."
+ }
+  {
+    "prompt": "Describe how CTLA-4 contributes to cellular signaling in disease.",
+    "completion": "CTLA-4 is an immune checkpoint protein; its blockade enhances immune response to cancer cells."
+ }
+  {
+    "prompt": "Describe how KRAS contributes to cellular signaling in disease.",
+    "completion": "KRAS is a GTPase; mutations keep it in the active form, leading to constant cell signaling in tumors."
+ }
+  {
+    "prompt": "How does modulation of BRAF affect disease progression?",
+    "completion": "BRAF is a MAPK pathway kinase; V600E mutation causes melanoma and other cancers."
+ }
+  {
+    "prompt": "What drugs target TP53 and what are their mechanisms?",
+    "completion": "TP53 is a tumor suppressor protein that regulates DNA repair and apoptosis; mutations lead to uncontrolled cell growth."
+ }
+  {
+    "prompt": "What drugs target HER2 and what are their mechanisms?",
+    "completion": "HER2 is a growth factor receptor amplified in breast cancers; targeted by trastuzumab."
+ }
+  {
+    "prompt": "What drugs target PI3K and what are their mechanisms?",
+    "completion": "PI3K is a key enzyme in cell signaling; dysregulation drives survival and metabolism in cancer cells."
+ }
+  {
+    "prompt": "How does modulation of AKT affect disease progression?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+ }
+  {
+    "prompt": "What is the role of PD-1 in drug discovery?",
+    "completion": "PD-1 is an immune checkpoint receptor; inhibition boosts T-cell activity against tumors."
+ }
+  {
+    "prompt": "What drugs target AKT and what are their mechanisms?",
+    "completion": "AKT is a serine/threonine kinase that promotes cell survival; hyperactivation is linked to resistance to apoptosis."
+  }
